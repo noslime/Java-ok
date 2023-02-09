@@ -2,7 +2,6 @@ package com.noslime.base.grammer;
 
 /**
  * @author qklee
- * @description
  * @date 2022/7/19
  * @since v.1.0
  */
